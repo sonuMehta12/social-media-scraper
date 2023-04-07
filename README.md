@@ -10,6 +10,9 @@ To run this program, you will need to have Python 3 installed on your system. Yo
 ### pip install requests
 ### pip install beautifulsoup4
 
+### pip install phonenumbers
+
+
 ##### Once you have installed the necessary libraries, you can run the program using the following command:
 
 ### python social_media_link_scraper.py
